@@ -17388,7 +17388,7 @@
                                                                 },
                                                               },
                                                               {
-                                                                value: true,
+                                                                value: false,
                                                                 label: 'Styles',
                                                                 key: 'styles',
                                                                 type: 'TOGGLE',
@@ -20105,7 +20105,7 @@
                                                                 },
                                                               },
                                                               {
-                                                                value: true,
+                                                                value: false,
                                                                 label: 'Styles',
                                                                 key: 'styles',
                                                                 type: 'TOGGLE',
